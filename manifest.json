@@ -9,8 +9,5 @@
     }],
     "web_accessible_resources": [
         "frame.html"
-    ],
-    "permissions": [
-      "https://couponate.herokuapp.com"
     ]
 }
